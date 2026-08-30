@@ -1,6 +1,6 @@
-Week 1 - Telco Customer Churn Analysis
+# WEEK 1 - TELCO CUSTOMER CHURN ANALYSIS q
 
-## Overview
+## Project Overview
 
 Analysed the Telco Customer Churn dataset to identify customer churn patterns and factors associated with customer retention and churn.
 
@@ -19,4 +19,3 @@ Analysed the Telco Customer Churn dataset to identify customer churn patterns an
 - Dataset Inspection Report
 - Excel Workbook
 - Business Presentation
-- 
