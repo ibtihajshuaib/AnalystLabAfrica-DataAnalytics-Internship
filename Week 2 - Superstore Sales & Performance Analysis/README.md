@@ -6,7 +6,6 @@ The project uses Microsoft Power BI to analyse Superstore sales and profitabilit
 
 ## Tools:
 - Microsoft Power BI
-- power query 
 
 ## Skills:
 Data Cleaning | Data Transformation | Data Preparation | Data Visualization | Dashboard Design | KPI Development | Business Analysis | Data Storytelling | Business Insights & Recommendations
