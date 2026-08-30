@@ -18,10 +18,6 @@ The Week 4 work establishes the foundation for Week 5, where the proposed KPIs w
 - Power BI
 - Power Query
 
-## Week 5 Focus
-
-Analyse appointment attendance and no-show patterns, calculate the proposed KPIs, identify meaningful patterns, and develop data-driven insights.
-
 ## Deliverables
 
 - Initial Analysis Report
