@@ -20,6 +20,10 @@ Performed advanced business analysis using Power BI and DAX to evaluate sales, p
 
 Conducted an initial analysis and data-quality assessment of appointment attendance and no-show data. Identified relevant variables and business questions and proposed KPIs and an analysis approach.
 
+### Week 5 – HealthConnect Exploratory Data Analysis
+
+Conducted exploratory data analysis on the HealthConnect Appointment Dataset using Power BI. Developed 4 KPIs, created 13 analytical visualisations, and built a two-page dashboard to explore appointment attendance and no-show patterns.
+
 ## Tools & Skills
 
 **Tools:** Power BI, Power Query, DAX, Excel
